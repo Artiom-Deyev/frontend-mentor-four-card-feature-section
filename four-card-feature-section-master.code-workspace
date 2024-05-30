@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../product-preview-card-component-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "four-card-feature-section-master"
+	}
+}
