@@ -122,6 +122,10 @@ body {
     border-top: 4px solid #549ef2;
   }
 }
+.attribution {
+  margin-bottom: 20px;
+}
+
 .block {
   max-width: 350px;
   height: 250px;
